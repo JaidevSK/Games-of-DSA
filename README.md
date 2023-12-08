@@ -1,6 +1,6 @@
 # Games of DSA
 
-This repository contains various games programmed in various languages such as C, C++, and Python using various concepts such as DFS, BFS, Memoization, etc.
+This repository contains various games programmed in various languages such as C, C++, and Python using various concepts such as DFS, BFS, Memoization, stacks, queues, hashing, minimax, etc.
 
 --- -
 # How to Play:
