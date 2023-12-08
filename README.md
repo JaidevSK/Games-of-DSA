@@ -213,7 +213,9 @@ ___________________
 - The encoding of different faces is done such that the indices from ascending order are given to the faces {Top, Left, Front, Right, Rear, Bottom}
 - The indexing for each face is done in clockwise manner starting from top left corner.
 - For encoding, refer this figure:
+    - Facewise Encoding Scheme Indices
     <img title="Facewise Encoding Scheme Indices" alt="Facewise Encoding Scheme Indices" src="/images/RubiksCube_encoding_scheme_facewise.png">
+    - Pixelwise Encoding Scheme Indices for Each Face
     <img title="Pixelwise Encoding Scheme Indices for Each Face" alt="Pixelwise Encoding Scheme Indices for Each Face" src="/images/RubiksCube_encoding_scheme_pixelwise.png">
 - The output moves are:
     - R : Clockwise 90 degrees on right
