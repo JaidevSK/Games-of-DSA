@@ -170,3 +170,71 @@ ___________________
 - Memoization
 - Board encoding (Bitwise operations)
 
+
+--- -
+# Game 7: Connect 4
+## Rules
+- [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Connect_Four)
+
+## Instructions
+- This game is the 4X5 version of the Connect Four Game.
+- To play this, enter the colour Blue or Red:
+    - Enter 'R' if you are the red player (staring first).
+    - Enter 'B' if you are the blue player (staring second).
+- Enter the column number where you would like to play the next move.
+- The result is declared in case of no valid move or full board.
+
+## Major Concepts
+- C++
+- Recursions and Backtracking
+- Graphs
+- Minimax
+- Memoization
+- Board encoding (Bitwise operations)
+
+--- -
+# Game 8: Rubik's Cube
+## Rules
+- [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
+
+## Instructions
+- This game is the 2X2X2 version of Rubiks Cube
+- Enter the colours of the cube in the 2D representation following the given table:
+
+| Colour | Value |
+|--------|-------|
+| White  | 0     |
+| Red    | 1     |
+| Blue   | 2     |
+| Orange | 3     |
+| Green  | 4     |
+| Yellow | 5     |
+
+- The encoding of different faces is done such that the indices from ascending order are given to the faces {Top, Left, Front, Right, Rear, Bottom}
+- The indexing for each face is done in clockwise manner starting from top left corner.
+- For encoding, refer this figure:
+    <img title="Facewise Encoding Scheme Indices" alt="Facewise Encoding Scheme Indices" src="/images/RubiksCube_encoding_scheme_facewise.png">
+    <img title="Pixelwise Encoding Scheme Indices for Each Face" alt="Pixelwise Encoding Scheme Indices for Each Face" src="/images/RubiksCube_encoding_scheme_pixelwise.png">
+- The output moves are:
+    - R : Clockwise 90 degrees on right
+    - R2: Clockwise 180 degrees on right
+    - R': Anti Clockwise 90 degrees on right
+    - U : Clockwise 90 degrees on top
+    - U2: Clockwise 180 degrees on top
+    - U': Anti Clockwise 90 degrees on top
+    - F : Clockwise 90 degrees on front
+    - F2: Clockwise 180 degrees on front
+    - F': Anti Clockwise 90 degrees on front
+
+
+## Major Concepts
+- C++
+- Recursions and Backtracking
+- Graphs
+- Graph Traversal using BFS
+- Queue
+- Hashing (Unordered Sets)
+- Memoization
+- Board encoding (Bitwise operations)
+
+
