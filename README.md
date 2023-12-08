@@ -30,7 +30,7 @@ This repository contains various games programmed in various languages such as C
 - Recursions
 
 --- -
-# Game 2: Sudoku
+# Game 2: [Sudoku](https://github.com/JaidevSK/Games-of-DSA/blob/main/Sudoku.cpp)
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Sudoku)
 
@@ -49,7 +49,7 @@ This repository contains various games programmed in various languages such as C
 
 
 --- -
-# Game 3: Tic Tac Toe
+# Game 3: [Tic Tac Toe](https://github.com/JaidevSK/Games-of-DSA/blob/main/TicTacToe.py)
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
@@ -80,7 +80,7 @@ ___________________
 
 
 --- -
-# Game 4: Game of Sim
+# Game 4: [Game of Sim](https://github.com/JaidevSK/Games-of-DSA/blob/main/GameOfSim.c)
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Sim_(pencil_game))
 
@@ -122,7 +122,7 @@ ___________________
 - Board encoding (Bitwise operations)
 
 --- -
-# Game 5: Puzzle 8
+# Game 5: [Puzzle 8](https://github.com/JaidevSK/Games-of-DSA/blob/main/Puzzle8.cpp)
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/15_Puzzle)
 
@@ -147,7 +147,7 @@ ___________________
 - Board encoding (Bitwise operations)
 
 --- -
-# Game 6: Up It Up
+# Game 6: [Up It Up](https://github.com/JaidevSK/Games-of-DSA/blob/main/UpItUp.cpp)
 ## Rules
 - [Link to Youtube Video](https://www.youtube.com/watch?v=N_GbBjvU068)
 
@@ -181,7 +181,7 @@ ___________________
 
 
 --- -
-# Game 7: Connect 4
+# Game 7: [Connect 4](https://github.com/JaidevSK/Games-of-DSA/blob/main/Connect4Game.cpp)
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Connect_Four)
 
@@ -202,7 +202,7 @@ ___________________
 - Board encoding (Bitwise operations)
 
 --- -
-# Game 8: Rubik's Cube
+# Game 8: [Rubik's Cube](https://github.com/JaidevSK/Games-of-DSA/blob/main/RubiksCube.cpp)
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
 
