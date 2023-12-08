@@ -5,9 +5,12 @@ This repository contains various games programmed in various languages such as C
 --- -
 # How to Play:
 - Clone the repository and follow the given instructions  
-  **                                OR                 **
+  **OR**
 - Download the individual files:
 - Also download the queue.hpp or stack.hpp header files as required.
+- Follow the given instructions.
+
+- Link to the [Main Repository](https://github.com/JaidevSK/Games-of-DSA)
 
 # Game 1: Tower of Hanoi
 ## Rules
