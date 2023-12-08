@@ -12,7 +12,7 @@ This repository contains various games programmed in various languages such as C
 
 - Link to the [Main Repository](https://github.com/JaidevSK/Games-of-DSA)
 
-# Game 1: Tower of Hanoi
+# Game 1: [Tower of Hanoi](https://github.com/JaidevSK/Games-of-DSA/blob/main/TowerOfHanoi.c)
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
