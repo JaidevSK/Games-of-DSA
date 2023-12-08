@@ -112,3 +112,61 @@ ___________________
 - Minimax Algorithm
 - Board encoding (Bitwise operations)
 
+--- -
+# Game 5: Puzzle 8
+## Rules
+- [Link to Wikipedia Page](https://en.wikipedia.org/wiki/15_Puzzle)
+
+## Instructions
+- This game is the 3X3 version of the 15 Puzzle game.
+- To play this, enter the Source Board from the left top most end to the right bottom most end.
+- If the position is empty, enter 9.
+- Similarly enter the Destination (Traget) Board.
+- The solution steps represent the movement of the empty block.
+    - R: Move the empty block to Right
+    - L: Move the empty block to Left
+    - U: Move the empty block to Up
+    - D: Move the empty block to Down
+
+## Major Concepts
+- C++
+- Recursions and Backtracking
+- Graphs
+- Graph Traversal using BFS
+- Queue
+- Memoization
+- Board encoding (Bitwise operations)
+
+--- -
+# Game 6: Up It Up
+## Rules
+- [Link to Youtube Video](https://www.youtube.com/watch?v=N_GbBjvU068)
+
+## Instructions
+- This game is represented by a 2D board such that the element: 
+    - Empty = '0'
+    - 'A' = '1'
+    - 'v' = '2'
+    - '^' = '3'
+    - '<' = '4'
+    - '>' = '5'
+    - 'B' = '6'
+- Here, 'A' is the top most face and 'B' is the bottom most face of the blocks. <, ^, v & > are the symbols that represent that if we tilt the block towards the arrow direction, we will get to the destination.
+- Give the input board in the same form as Puzzle 8 following the above encoding scheme.
+- Click enter and the solution is obtained.
+- The solution steps represent the movement of the empty block.
+    - R: Move the empty block to Right
+    - L: Move the empty block to Left
+    - U: Move the empty block to Up
+    - D: Move the empty block to Down
+
+## Major Concepts
+- C++
+- Recursions and Backtracking
+- Graphs
+- Graph Traversal using BFS
+- Queue
+- Hashing (unordered sets)
+- Memoization
+- Board encoding (Bitwise operations)
+
