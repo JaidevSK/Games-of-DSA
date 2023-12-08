@@ -3,6 +3,12 @@
 This repository contains various games programmed in various languages such as C, C++, and Python using various concepts such as DFS, BFS, Memoization, etc.
 
 --- -
+# How to Play:
+- Clone the repository and follow the given instructions
+                      OR
+  Download the individual files:
+  Also download the queue.hpp or stack.hpp header files as required.
+
 # Game 1: Tower of Hanoi
 ## Rules
 - [Link to Wikipedia Page](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
@@ -215,6 +221,7 @@ ___________________
 - For encoding, refer this figure:
     - Facewise Encoding Scheme Indices
     <img title="Facewise Encoding Scheme Indices" alt="Facewise Encoding Scheme Indices" src="/images/RubiksCube_encoding_scheme_facewise.png">
+    
     - Pixelwise Encoding Scheme Indices for Each Face
     <img title="Pixelwise Encoding Scheme Indices for Each Face" alt="Pixelwise Encoding Scheme Indices for Each Face" src="/images/RubiksCube_encoding_scheme_pixelwise.png">
 - The output moves are:
