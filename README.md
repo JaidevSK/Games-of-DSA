@@ -47,11 +47,16 @@ This repository contains various games programmed in various languages such as C
 ## Instructions
 - The structure of the board is:
 ```
-|---|---|---|
-| 0 | 1 | 2 |
-| 3 | 4 | 5 |
-| 6 | 7 | 8 |
-|---|---|---|
+___________________
+|     |     |     |
+|  0  |  1  |  2  |
+|_____|_____|_____|
+|     |     |     |
+|  3  |  4  |  5  |
+|_____|_____|_____|
+|     |     |     |
+|  6  |  7  |  8  |
+|_____|_____|_____|  
 ```
 - The input for each step is the index from the above table for the place where we want to play the next move
 - The response move is automatically generated, and the final result is displayed at the end of the game.
